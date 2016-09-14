@@ -1,6 +1,6 @@
 {
   "name": "bit-loader-extensions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "bit-loader plugin for handling JavaScript dependencies for files with no extensions",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,8 @@
     "url": "git+https://github.com/MiguelCastillo/bit-loader-extensions.git"
   },
   "keywords": [
-    "bit-loader", "bit-loader-plugin"
+    "bit-loader",
+    "bit-loader-plugin"
   ],
   "author": "Miguel Castillo <manchagnu@gmail.com>",
   "license": "MIT",
