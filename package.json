@@ -1,6 +1,6 @@
 {
   "name": "bit-loader-extensions",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "bit-loader plugin for handling JavaScript dependencies for files with no extensions",
   "main": "index.js",
   "scripts": {
