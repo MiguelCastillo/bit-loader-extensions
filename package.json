@@ -4,7 +4,7 @@
   "description": "bit-loader plugin for handling JavaScript dependencies for files with no extensions",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "eslint index.js"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,8 @@
     "url": "https://github.com/MiguelCastillo/bit-loader-extensions/issues"
   },
   "homepage": "https://github.com/MiguelCastillo/bit-loader-extensions#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^3.5.0"
   }
 }
