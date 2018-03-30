@@ -1,5 +1,5 @@
 {
-  "name": "bit-loader-extensions",
+  "name": "@bit/loader-extensions",
   "version": "1.0.1",
   "description": "bit-loader plugin for handling JavaScript dependencies for files with no extensions",
   "main": "index.js",
