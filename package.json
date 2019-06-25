@@ -22,6 +22,6 @@
   "homepage": "https://github.com/MiguelCastillo/bit-loader-extensions#readme",
   "dependencies": {},
   "devDependencies": {
-    "eslint": "^4.12.1"
+    "eslint": "^6.0.1"
   }
 }
